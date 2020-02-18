@@ -1,6 +1,6 @@
 # GPS_Spoofing
 # Install Tools GPS Spoofing.
-wget https://github.com/OXOO1337/GPS-Spoofing/blob/master/Install_Tools_GPS_Spoofing.sh
+wget https://raw.githubusercontent.com/OXOO1337/GPS-Spoofing/master/Install_Tools_GPS_Spoofing.sh
 
 chmod +x Install_Tools_GPS_Spoofing.sh
 
